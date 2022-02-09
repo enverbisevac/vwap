@@ -1,0 +1,3 @@
+govet:
+  enable:
+    - fieldalignment
